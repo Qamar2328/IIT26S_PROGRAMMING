@@ -1,0 +1,5 @@
+#print(input("What is your name:"))
+name = input("What is your name:")
+print(f"Hi there, {name}!")
+age=input("What is your age:")
+print(f"Your age is {age} years old.")
